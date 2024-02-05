@@ -1,0 +1,65 @@
+.robot-display-container {
+  text-align: center;
+}
+
+.robot-display-container h2 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.robot-display-button {
+  background-color: #4ae298;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.robot-display-button:hover {
+  background-color: #4ae298;
+}
+
+.robot-state {
+  font-size: 18px;
+  color: #333;
+  margin-top: 20px;
+}
+
+.robot-not-placed {
+  font-size: 16px;
+  color: #888;
+}
+
+/* Material-UI Dialog Styles */
+.MuiDialog-paper {
+  width: 60%;
+  max-width: 80%;
+}
+
+.MuiDialogTitle-root {
+  background-color: #4ae298;
+  color: white;
+}
+
+.MuiDialogContent-root {
+  padding: 20px;
+}
+
+.MuiDialogActions-root {
+  padding: 10px 20px;
+  justify-content: center;
+}
+
+.MuiButton-root {
+  background-color: #4caf50;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.MuiButton-root:hover {
+  background-color: #45a049;
+}

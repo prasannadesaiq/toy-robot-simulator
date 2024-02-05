@@ -1,0 +1,26 @@
+/* styles.css */
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  flex-direction: column;
+  background-color: #f5f5f5; /* Light Gray */
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+}
+.game-title {
+  font-size: 32px;
+  color: #be7272;
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);;
+}

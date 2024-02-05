@@ -1,0 +1,25 @@
+.information-container {
+  border: 1px solid #ccc;
+  padding: 30px;
+  margin-bottom: 20px;
+  background-color: #f0f8ff; /* Light Blue */
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  color: #333;
+  font-size: 1.8em;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style-type: square;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 12px;
+  font-size: 1.1em;
+  color: #555;
+}
